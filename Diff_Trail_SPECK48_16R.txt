@@ -1,0 +1,236 @@
+The max differential probability of 1 round is  0
+The input differential of  0 round is  000080 800000   800000 800000 000000 000004 with probability 0
+The input differential of  1 round is  000000 000004   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 0.001000 seconds, that is 0.000000 hours
+
+
+The max differential probability of 2 round is  -1
+The input differential of  0 round is  000010 100000   100000 100000 000000 000004 with probability -1
+The input differential of  1 round is  000000 800000   000000 800000 800000 000000 with probability 0
+The input differential of  2 round is  800000 800004   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 0.000000 seconds, that is 0.000000 hours
+
+
+The max differential probability of 3 round is  -3
+The input differential of  0 round is  000010 100000   100000 100000 000000 800000 with probability -1
+The input differential of  1 round is  000000 800000   000000 800000 800000 000004 with probability 0
+The input differential of  2 round is  800000 800004   008000 800004 808004 000024 with probability -2
+The input differential of  3 round is  808004 808020   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 0.001000 seconds, that is 0.000000 hours
+
+
+The max differential probability of 4 round is  -6
+The input differential of  0 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  1 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  2 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  3 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  4 round is  800084 8400a0   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 0.010000 seconds, that is 0.000003 hours
+
+
+The max differential probability of 5 round is  -10
+The input differential of  0 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  1 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  2 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  3 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  4 round is  800084 8400a0   848000 8400a0 0080a0 200504 with probability -4
+The input differential of  5 round is  0080a0 2085a4   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 0.255000 seconds, that is 0.000071 hours
+
+
+The max differential probability of 6 round is  -14
+The input differential of  0 round is  020082 120200   820200 120200 900000 901000 with probability -3
+The input differential of  1 round is  900000 001000   009000 001000 008000 008000 with probability -2
+The input differential of  2 round is  008000 000000   000080 000000 000080 000000 with probability -1
+The input differential of  3 round is  000080 000080   800000 000080 800080 000400 with probability -1
+The input differential of  4 round is  800080 800480   808000 800480 008480 002404 with probability -3
+The input differential of  5 round is  008480 00a084   800084 00a084 80a000 050420 with probability -4
+The input differential of  6 round is  80a000 85a420   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 0.755000 seconds, that is 0.000210 hours
+
+
+The max differential probability of 7 round is  -19
+The input differential of  0 round is  400052 504200   524000 504200 820200 821002 with probability -5
+The input differential of  1 round is  820200 001202   008202 001202 009000 009010 with probability -4
+The input differential of  2 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  3 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  4 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  5 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  6 round is  800084 8400a0   848000 8400a0 0080a0 200504 with probability -4
+The input differential of  7 round is  0080a0 2085a4   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 86.097000 seconds, that is 0.023916 hours
+
+
+The max differential probability of 8 round is  -26
+The input differential of  0 round is  400052 504200   524000 504200 820200 821002 with probability -5
+The input differential of  1 round is  820200 001202   008202 001202 009000 009010 with probability -4
+The input differential of  2 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  3 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  4 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  5 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  6 round is  800084 8400a0   848000 8400a0 0080a0 200504 with probability -4
+The input differential of  7 round is  0080a0 2085a4   a00080 2085a4 808424 042d21 with probability -7
+The input differential of  8 round is  808424 84a905   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 266396.397000 seconds, that is 73.998999 hours
+
+
+The max differential probability of 9 round is  -33
+The input differential of  0 round is  080802 42084a   020808 42084a 400052 104252 with probability -7
+The input differential of  1 round is  400052 504200   524000 504200 820200 821002 with probability -5
+The input differential of  2 round is  820200 001202   008202 001202 009000 009010 with probability -4
+The input differential of  3 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  4 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  5 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  6 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  7 round is  800084 8400a0   848000 8400a0 0080a0 200504 with probability -4
+The input differential of  8 round is  0080a0 2085a4   a00080 2085a4 808424 042d21 with probability -7
+The input differential of  9 round is  808424 84a905   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 939296.494000 seconds, that is 260.915693 hours
+
+
+The max differential probability of 10 round is  -40
+The input differential of  0 round is  480901 094009   014809 094009 080802 4a0048 with probability -7
+The input differential of  1 round is  080802 42084a   020808 42084a 400052 104252 with probability -7
+The input differential of  2 round is  400052 504200   524000 504200 820200 821002 with probability -5
+The input differential of  3 round is  820200 001202   008202 001202 009000 009010 with probability -4
+The input differential of  4 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  5 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  6 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  7 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  8 round is  800084 8400a0   848000 8400a0 0080a0 200504 with probability -4
+The input differential of  9 round is  0080a0 2085a4   a00080 2085a4 808424 042d21 with probability -7
+The input differential of 10 round is  808424 84a905   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 1060477.695000 seconds, that is 294.577137 hours
+
+
+The max differential probability of 11 round is  -45
+The input differential of  0 round is  001202 020002   020012 020002 000010 100010 with probability -3
+The input differential of  1 round is  000010 100000   100000 100000 000000 800000 with probability -1
+The input differential of  2 round is  000000 800000   000000 800000 800000 000004 with probability 0
+The input differential of  3 round is  800000 800004   008000 800004 808004 000024 with probability -2
+The input differential of  4 round is  808004 808020   048080 808020 8400a0 040104 with probability -4
+The input differential of  5 round is  8400a0 8001a4   a08400 8001a4 608da4 000d24 with probability -9
+The input differential of  6 round is  608da4 608080   a4608d 608080 042003 040403 with probability -11
+The input differential of  7 round is  042003 002400   030420 002400 012020 012000 with probability -5
+The input differential of  8 round is  012020 000020   200120 000020 200100 000100 with probability -3
+The input differential of  9 round is  200100 200000   002001 200000 202001 000001 with probability -3
+The input differential of 10 round is  202001 202000   012020 202000 210020 010001 with probability -4
+The input differential of 11 round is  210020 200021   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 16783.745000 seconds, that is 4.662151 hours
+
+
+The max differential probability of 12 round is  -49
+The input differential of  0 round is  080048 080800   480800 080800 400000 404000 with probability -3
+The input differential of  1 round is  400000 004000   004000 004000 000000 020000 with probability -1
+The input differential of  2 round is  000000 020000   000000 020000 020000 100000 with probability -1
+The input differential of  3 round is  020000 120000   000200 120000 120200 900000 with probability -3
+The input differential of  4 round is  120200 820200   001202 820200 821002 101004 with probability -4
+The input differential of  5 round is  821002 920006   028210 920006 918236 900034 with probability -9
+The input differential of  6 round is  918236 018202   369182 018202 0c1080 0c1010 with probability -12
+The input differential of  7 round is  0c1080 000090   800c10 000090 800480 000480 with probability -4
+The input differential of  8 round is  800480 800000   808004 800000 008004 000004 with probability -2
+The input differential of  9 round is  008004 008000   040080 008000 048080 040000 with probability -3
+The input differential of 10 round is  048080 008080   800480 008080 808400 040400 with probability -3
+The input differential of 11 round is  808400 848000   008084 848000 840084 240004 with probability -4
+The input differential of 12 round is  840084 a00080   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 12681.348000 seconds, that is 3.522597 hours
+
+
+The max differential probability of 13 round is  -54
+The input differential of  0 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  1 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  2 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  3 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  4 round is  800084 8400a0   848000 8400a0 008760 200504 with probability -8
+The input differential of  5 round is  008760 208264   600087 208264 0082a3 041321 with probability -10
+The input differential of  6 round is  0082a3 049182   a30082 049182 a49000 248c10 with probability -9
+The input differential of  7 round is  a49000 801c10   00a490 801c10 806080 00e084 with probability -8
+The input differential of  8 round is  806080 808004   808060 808004 000024 040024 with probability -4
+The input differential of  9 round is  000024 040000   240000 040000 200000 200000 with probability -2
+The input differential of 10 round is  200000 000000   002000 000000 002000 000000 with probability -1
+The input differential of 11 round is  002000 002000   000020 002000 002020 010000 with probability -2
+The input differential of 12 round is  002020 012020   200020 012020 212000 090100 with probability -4
+The input differential of 13 round is  212000 282100   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 16864.422000 seconds, that is 4.684562 hours
+
+
+The max differential probability of 14 round is  -58
+The input differential of  0 round is  820200 001202   008202 001202 009000 009010 with probability -4
+The input differential of  1 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  2 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  3 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  4 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  5 round is  800084 8400a0   848000 8400a0 008760 200504 with probability -8
+The input differential of  6 round is  008760 208264   600087 208264 0082a3 041321 with probability -10
+The input differential of  7 round is  0082a3 049182   a30082 049182 a49000 248c10 with probability -9
+The input differential of  8 round is  a49000 801c10   00a490 801c10 806080 00e084 with probability -8
+The input differential of  9 round is  806080 808004   808060 808004 000024 040024 with probability -4
+The input differential of 10 round is  000024 040000   240000 040000 200000 200000 with probability -2
+The input differential of 11 round is  200000 000000   002000 000000 002000 000000 with probability -1
+The input differential of 12 round is  002000 002000   000020 002000 002020 010000 with probability -2
+The input differential of 13 round is  002020 012020   200020 012020 212000 090100 with probability -4
+The input differential of 14 round is  212000 282100   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 10399.348000 seconds, that is 2.888708 hours
+
+
+The max differential probability of 15 round is  -63
+The input differential of  0 round is  820200 001202   008202 001202 009000 009010 with probability -4
+The input differential of  1 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  2 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  3 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  4 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  5 round is  800084 8400a0   848000 8400a0 008760 200504 with probability -8
+The input differential of  6 round is  008760 208264   600087 208264 0082a3 041321 with probability -10
+The input differential of  7 round is  0082a3 049182   a30082 049182 a49000 248c10 with probability -9
+The input differential of  8 round is  a49000 801c10   00a490 801c10 806080 00e084 with probability -8
+The input differential of  9 round is  806080 808004   808060 808004 000024 040024 with probability -4
+The input differential of 10 round is  000024 040000   240000 040000 200000 200000 with probability -2
+The input differential of 11 round is  200000 000000   002000 000000 002000 000000 with probability -1
+The input differential of 12 round is  002000 002000   000020 002000 002020 010000 with probability -2
+The input differential of 13 round is  002020 012020   200020 012020 212000 090100 with probability -4
+The input differential of 14 round is  212000 282100   002120 282100 280020 410801 with probability -5
+The input differential of 15 round is  280020 690821   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 8953.709000 seconds, that is 2.487141 hours
+
+
+The max differential probability of 16 round is  -68
+The input differential of  0 round is  400052 504200   524000 504200 820200 821002 with probability -5
+The input differential of  1 round is  820200 001202   008202 001202 009000 009010 with probability -4
+The input differential of  2 round is  009000 000010   000090 000010 000080 000080 with probability -2
+The input differential of  3 round is  000080 000000   800000 000000 800000 000000 with probability 0
+The input differential of  4 round is  800000 800000   008000 800000 808000 000004 with probability -1
+The input differential of  5 round is  808000 808004   008080 808004 800084 040024 with probability -3
+The input differential of  6 round is  800084 8400a0   848000 8400a0 008760 200504 with probability -8
+The input differential of  7 round is  008760 208264   600087 208264 0082a3 041321 with probability -10
+The input differential of  8 round is  0082a3 049182   a30082 049182 a49000 248c10 with probability -9
+The input differential of  9 round is  a49000 801c10   00a490 801c10 806080 00e084 with probability -8
+The input differential of 10 round is  806080 808004   808060 808004 000024 040024 with probability -4
+The input differential of 11 round is  000024 040000   240000 040000 200000 200000 with probability -2
+The input differential of 12 round is  200000 000000   002000 000000 002000 000000 with probability -1
+The input differential of 13 round is  002000 002000   000020 002000 002020 010000 with probability -2
+The input differential of 14 round is  002020 012020   200020 012020 212000 090100 with probability -4
+The input differential of 15 round is  212000 282100   002120 282100 280020 410801 with probability -5
+The input differential of 16 round is  280020 690821   000000 000000 000000 000000 with probability 0
+
+The procedure runs for 6983.249000 seconds, that is 1.939791 hours
+
+
+
+The procedure runs for 0.000000 seconds, that is 0.000000 hours
+
+

@@ -1,0 +1,170 @@
+The max linear correlation of 1 round is  0
+The input mask of 0 round is 000100 000000  000001 000001 000001 000001, with correlation 0
+The input mask of 1 round is 000009 000008  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 0.000000 seconds, that is 0.000000 hours
+
+
+The max linear correlation of 2 round is  0
+The input mask of 0 round is 000100 200001  000001 000001 000001 200000, with correlation 0
+The input mask of 1 round is 000000 000001  000000 000000 000000 000001, with correlation 0
+The input mask of 2 round is 000008 000008  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 0.000000 seconds, that is 0.000000 hours
+
+
+The max linear correlation of 3 round is  -1
+The input mask of 0 round is 000100 200001  000001 000001 000001 200000, with correlation 0
+The input mask of 1 round is 000000 000001  000000 000000 000000 000001, with correlation 0
+The input mask of 2 round is 000008 000008  080000 0c0000 080000 0c0008, with correlation -1
+The input mask of 3 round is 680040 600040  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 0.002000 seconds, that is 0.000001 hours
+
+
+The max linear correlation of 4 round is  -3
+The input mask of 0 round is 010120 140181  200101 300181 200101 240000, with correlation -2
+The input mask of 1 round is 000100 200001  000001 000001 000001 200000, with correlation 0
+The input mask of 2 round is 000000 000001  000000 000000 000000 000001, with correlation 0
+The input mask of 3 round is 000008 000008  080000 0c0000 080000 0c0008, with correlation -1
+The input mask of 4 round is 680040 600040  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 0.357000 seconds, that is 0.000099 hours
+
+
+The max linear correlation of 5 round is  -6
+The input mask of 0 round is 010100 200181  000101 000181 000101 200000, with correlation -1
+The input mask of 1 round is 000100 000001  000001 000001 000001 000000, with correlation 0
+The input mask of 2 round is 000001 000000  010000 018000 010000 018000, with correlation -1
+The input mask of 3 round is 0d0000 0c0000  000d00 000d80 000d00 0c0d80, with correlation -2
+The input mask of 4 round is 606100 606c00  006061 006061 006061 600c61, with correlation -2
+The input mask of 5 round is 00036a 00630b  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 71.579000 seconds, that is 0.019883 hours
+
+
+The max linear correlation of 6 round is  -8
+The input mask of 0 round is 000121 150021  210001 310001 218001 240020, with correlation -2
+The input mask of 1 round is 018100 200101  000181 000101 000101 200000, with correlation -1
+The input mask of 2 round is 000100 000001  000001 000001 000001 000000, with correlation 0
+The input mask of 3 round is 000001 000000  010000 018000 010000 018000, with correlation -1
+The input mask of 4 round is 0d0000 0c0000  000d00 000d80 000d00 0c0d80, with correlation -2
+The input mask of 5 round is 606100 606c00  006061 006061 006061 600c61, with correlation -2
+The input mask of 6 round is 00036a 00630b  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 492.993000 seconds, that is 0.136942 hours
+
+
+The max linear correlation of 7 round is  -12
+The input mask of 0 round is 000501 e18625  010005 018005 010007 e00620, with correlation -2
+The input mask of 1 round is 013100 003107  000131 000131 0001b1 003036, with correlation -2
+The input mask of 2 round is 018001 0181b0  010180 018180 010180 000030, with correlation -2
+The input mask of 3 round is 010000 000180  000100 000180 000100 000000, with correlation -1
+The input mask of 4 round is 000100 000000  000001 000001 000001 000001, with correlation 0
+The input mask of 5 round is 000009 000008  090000 0d0000 098000 0d0008, with correlation -2
+The input mask of 6 round is 618040 680040  406180 606180 406180 0861c0, with correlation -3
+The input mask of 7 round is 036f80 430e00  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 11342.448000 seconds, that is 3.150680 hours
+
+
+The max linear correlation of 8 round is  -15
+The input mask of 0 round is 000121 150021  210001 310001 218001 240020, with correlation -2
+The input mask of 1 round is 018100 200101  000181 000101 000101 200000, with correlation -1
+The input mask of 2 round is 000100 000001  000001 000001 000001 000000, with correlation 0
+The input mask of 3 round is 000001 000000  010000 018000 010000 018000, with correlation -1
+The input mask of 4 round is 0d0000 0c0000  000d00 000d80 000d00 0c0d80, with correlation -2
+The input mask of 5 round is 606100 606c00  006061 006041 006041 600c41, with correlation -2
+The input mask of 6 round is 00024a 00620b  4a0002 4e0003 6b0002 4e6208, with correlation -4
+The input mask of 7 round is 181040 731042  401810 601818 401810 13085a, with correlation -3
+The input mask of 8 round is d85ac0 9842d0  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 138993.951000 seconds, that is 38.609431 hours
+
+
+The max linear correlation of 9 round is  -19
+The input mask of 0 round is 000100 140021  000001 000001 000001 140020, with correlation 0
+The input mask of 1 round is a00101 a00100  01a001 012001 013001 a12101, with correlation -2
+The input mask of 2 round is 08380c 09080d  0c0838 08082c 080c28 010021, with correlation -4
+The input mask of 3 round is 000d20 080108  20000d 2c0009 280009 240101, with correlation -4
+The input mask of 4 round is 080800 200809  000808 000808 000c09 200001, with correlation -4
+The input mask of 5 round is 000c00 000009  00000c 000008 000008 000001, with correlation -1
+The input mask of 6 round is 000000 000008  000000 000000 000000 000008, with correlation 0
+The input mask of 7 round is 000040 000040  400000 600000 400000 600040, with correlation -1
+The input mask of 8 round is 400203 000203  034002 036003 034002 036200, with correlation -3
+The input mask of 9 round is 185002 1b1000  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 208176.810000 seconds, that is 57.826892 hours
+
+
+The max linear correlation of 10 round is  -22
+The input mask of 0 round is 000900 20018c  000009 00000d 000009 200181, with correlation -1
+The input mask of 1 round is 000c00 000c09  00000c 000008 000008 000c01, with correlation -1
+The input mask of 2 round is 006000 006008  000060 000040 000040 006048, with correlation -1
+The input mask of 3 round is 030200 030240  000302 000202 000202 030042, with correlation -2
+The input mask of 4 round is 180012 180210  121800 1a1000 129000 021210, with correlation -4
+The input mask of 5 round is 020080 109080  800200 c00300 800200 d09380, with correlation -2
+The input mask of 6 round is 049e06 849c06  06049e 0404d4 040694 8098d2, with correlation -5
+The input mask of 7 round is 00c000 04c694  0000c0 000080 000080 04c614, with correlation -1
+The input mask of 8 round is 263020 2630a0  202630 203420 302420 060480, with correlation -4
+The input mask of 9 round is 000020 302400  200000 300000 200000 002400, with correlation -1
+The input mask of 10 round is 212000 012000  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 98309.505000 seconds, that is 27.308196 hours
+
+
+The max linear correlation of 11 round is  -25
+The input mask of 0 round is 000800 800009  000008 000008 00000c 800001, with correlation -1
+The input mask of 1 round is 000000 00000c  000000 000000 000000 00000c, with correlation 0
+The input mask of 2 round is 000060 000060  600000 680000 400000 680060, with correlation -3
+The input mask of 3 round is 000303 400303  030003 020003 020002 420300, with correlation -2
+The input mask of 4 round is 121800 101802  001218 001a10 001290 100212, with correlation -4
+The input mask of 5 round is 800200 801090  008002 00c003 008002 80d093, with correlation -2
+The input mask of 6 round is 06049e 06849c  9e0604 d40404 940406 d28098, with correlation -5
+The input mask of 7 round is 0000c0 9404c6  c00000 800000 800000 1404c6, with correlation -1
+The input mask of 8 round is 202630 a02630  302026 202034 203024 800604, with correlation -4
+The input mask of 9 round is 200000 003024  002000 003000 002000 000024, with correlation -1
+The input mask of 10 round is 002120 000120  200021 300031 200021 300111, with correlation -2
+The input mask of 11 round is a008a8 800889  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 123945.811000 seconds, that is 34.429392 hours
+
+
+The max linear correlation of 12 round is  -28
+The input mask of 0 round is 010100 200181  000101 000181 000101 200000, with correlation -1
+The input mask of 1 round is 000100 000001  000001 000001 000001 000000, with correlation 0
+The input mask of 2 round is 000001 000000  010000 010000 018000 010000, with correlation -1
+The input mask of 3 round is 098000 080000  000980 000d00 000900 080d00, with correlation -2
+The input mask of 4 round is 406100 406800  004061 006041 004041 400841, with correlation -2
+The input mask of 5 round is 00024b 00420a  4b0002 4f0002 6a1002 4f4208, with correlation -8
+The input mask of 6 round is 100040 7a1042  401000 741000 701800 0e0042, with correlation -5
+The input mask of 7 round is 001a10 700210  10001a 100012 180013 600202, with correlation -3
+The input mask of 8 round is 181000 001013  001810 001010 001018 000003, with correlation -2
+The input mask of 9 round is 001000 000018  000010 000018 000010 000000, with correlation -1
+The input mask of 10 round is 000010 000000  100000 180000 100000 180000, with correlation -1
+The input mask of 11 round is d00000 c00000  00d000 00d800 00d000 c0d800, with correlation -2
+The input mask of 12 round is 061006 06c006  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 352855.325000 seconds, that is 98.015368 hours
+
+
+The max linear correlation of 13 round is  -30
+The input mask of 0 round is 000501 e10425  010005 010005 018007 e00420, with correlation -2
+The input mask of 1 round is 01a100 002107  0001a1 000121 000131 002026, with correlation -2
+The input mask of 2 round is 010001 010130  010100 010100 018180 000030, with correlation -2
+The input mask of 3 round is 018000 000180  000180 000180 000180 000000, with correlation -1
+The input mask of 4 round is 000180 000000  800001 c00001 800001 c00001, with correlation -1
+The input mask of 5 round is 80000f 00000e  0f8000 0f0000 0b0000 0f000e, with correlation -3
+The input mask of 6 round is 730070 780070  707300 605300 405b00 185370, with correlation -5
+The input mask of 7 round is 82c080 c29b80  8082c0 c083e0 80c300 021860, with correlation -6
+The input mask of 8 round is 900000 10c300  009000 00d000 009800 101300, with correlation -2
+The input mask of 9 round is 800000 809800  008000 008000 00c000 801800, with correlation -1
+The input mask of 10 round is 000004 00c004  040000 040000 060000 04c004, with correlation -1
+The input mask of 11 round is 200020 260020  202000 203000 302000 063020, with correlation -2
+The input mask of 12 round is 01a100 318100  0001a1 0001b1 0001a1 3180b1, with correlation -2
+The input mask of 13 round is 8c0428 8c0589  000000 000000 000000 000000, with correlation 0
+
+The procedure runs for 11890.143000 seconds, that is 3.302818 hours
+
+
+
